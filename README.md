@@ -3,12 +3,17 @@ This NLP project classifies toxic comments with 95% accuracy using TensorFlow &a
 
 **Technologies Used:**
 
-TensorFlow
-Keras
-Pandas
-NumPy
-Matplotlib
-Gradio
+1) TensorFlow
+   
+2) Keras
+   
+3) Pandas
+   
+4) NumPy
+   
+5) Matplotlib
+   
+6) Gradio
 
 **Key Features:**
 
