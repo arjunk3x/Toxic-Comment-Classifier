@@ -21,13 +21,11 @@ Interactive result visualization with Gradio
 
 Contributions welcome! Feel free to open issues or submit pull requests for enhancements or bug fixes.
 
-![Screenshot (175)](https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/ad63a05b-ffc7-4b12-a77a-1f099e59c9b6)
+**GUI Result:**
 
-![Screenshot (177)](https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/6abd6253-4ffe-432e-9ce2-12f492448b08)
+<img width="1670" alt="Screenshot 2024-04-05 at 6 59 33 PM" src="https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/091e7b34-0210-4d48-af83-daba8f58381c">
 
-![Screenshot (176)](https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/e8bbd9c3-d06c-423c-b50d-4561e04686db)
-
-![Screenshot (178)](https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/b5d08118-8d9c-498b-8a5c-f363fceefd77)
+<img width="1673" alt="Screenshot 2024-04-05 at 6 59 57 PM" src="https://github.com/arjunk3x/Toxic-Comment-Classifier/assets/147756161/441c195e-4aef-44d6-8f12-86ad46d3f009">
 
 
 
